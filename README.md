@@ -14,7 +14,7 @@ The following attributes are used as inputs for our model:
 - Credit Card Debt
 - Net Worth
 
-The trained model will take these attributes as input and provide a prediction for the total dollar amount customers are willing to pay for a car. In real life context, this kinf of information could be valuable for car dealerships, financial institutions, and other relevant stakeholders in the automotive industry.
+The trained model will take these attributes as input and provide a prediction for the total dollar amount customers are willing to pay for a car. In real life context, this kind of information could be valuable for car dealerships, financial institutions, and other relevant stakeholders in the automotive industry.
 
 ## Usage
 
