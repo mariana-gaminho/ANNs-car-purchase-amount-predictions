@@ -24,12 +24,12 @@ To run this project locally, you have two options depending on your preference: 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mariana-gaminho/ANNs-car-purchase-amount-predictions.git
+git clone https://github.com/mariana-gaminho/car-purchase-amount-prediction.git
 ```
 
 2. Move to the cloned directory:
 ```bash
-cd ANNs-car-purchase-amount-predictions
+cd car-purchase-amount-prediction
 ```
 
 3. Create the Conda environment using the provided `environment.yml`` file:
@@ -66,12 +66,12 @@ If you choose to use the Conda environment, the `environment.yml` file ensures t
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mariana-gaminho/ANNs-car-purchase-amount-predictions.git
+git clone https://github.com/mariana-gaminho/car-purchase-amount-prediction.git
 ```
 
 2. Move to the cloned directory:
 ```bash
-cd ANNs-car-purchase-amount-predictions
+cd car-purchase-amount-prediction
 ```
 
 3. Install the required dependencies:
